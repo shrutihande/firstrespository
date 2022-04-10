@@ -14,11 +14,11 @@ public class EventHandling implements ActionListener{
 		   
 		    tf.setBounds(50,50, 150,20);  
 		    
-		    b.setBounds(50,100,100,30); 
+		    b.setBounds(50,100,60,30); 
 		    b.addActionListener(this);
 		      
 		  	  
-		    c.setBounds(130,100,100,30);  
+		    c.setBounds(130,100,60,30);  
 		    c.addActionListener(this);
 		    
 		    
